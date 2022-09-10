@@ -232,6 +232,10 @@ The following table is a frequency list of all the Chinese characters on the fro
 | 58 | 保 | băo | 1 |
 
 
+# LICENSE
+
+  + https://creativecommons.org/publicdomain/zero/1.0/
+
 
 
 [hpt]: https://github.com/pffy/hanyupinyintools
