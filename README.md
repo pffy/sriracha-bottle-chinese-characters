@@ -19,8 +19,16 @@ The following table is a list of the Chinese characters on the top front of the 
 
 > NOTE: Table generated using the [Cotton Markdown Tables][mdt] add-on for Google Sheets. Tone marks added to Hanyu Pinyin in Google Sheets with [HanyuPinyinTools][hpt].
 
-`[ front table here ]`
-
+| ITEM | CHINESE | PINYIN |
+|  ------- | ------- | ------- |
+| 1 | 是 | shì |
+| 2 | 拉 | lā |
+| 3 | 差 | chā |
+| 4 | 香 | xiāng |
+| 5 | 甜 | tián |
+| 6 | 辣 | là |
+| 7 | 椒 | jiāo |
+| 8 | 醬 | jiàng |
 
 ### Words
 
@@ -68,7 +76,7 @@ The following table is a list of the Chinese characters on the back of the Srira
 
 > NOTE: Table generated using the [Cotton Markdown Tables][mdt] add-on for Google Sheets. Tone marks added to Hanyu Pinyin in Google Sheets with [HanyuPinyinTools][hpt].
 
-| # | CHINESE | PINYIN |
+| ITEM | CHINESE | PINYIN |
 | :--: | :--: | :--: |
 | 1 | 無 | wú |
 | 2 | 加 | jiā |
