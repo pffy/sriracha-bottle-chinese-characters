@@ -26,7 +26,7 @@ The following table is a list of the Chinese characters on the top front of the 
 | 7 | 椒 | jiāo |
 | 8 | 醬 | jiàng |
 
-### Words
+### Vocabulary
 
 | CHINESE | PINYIN | ENGLISH |
 | :--: | :--: | :--: |
@@ -35,7 +35,8 @@ The following table is a list of the Chinese characters on the top front of the 
 | 香甜 | xiāng tián | sweet |
 | 辣椒醬 | là jiāo jiàng | chili sauce |
 
-### Read more
+Read more:
+
   + https://zh.wikipedia.org/wiki/是拉差香甜辣椒醬
   + https://en.wikipedia.org/wiki/Sriracha
 
