@@ -1,7 +1,3 @@
-# sriracha-bottle-chinese-characters
-
-Chinese characters on the (Huy Fong Foods) sriracha sweet chili hot sauce bottle.
-
 # `Sriracha Bottle Chinese Characters`
 
 Chinese characters on the (Huy Fong Foods) Asriracha sweet chili hot sauce bottle.
