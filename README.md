@@ -236,5 +236,5 @@ The following table is a frequency list of all the Chinese characters on the fro
 
 
 [hpt]: https://github.com/pffy/hanyupinyintools
-[mdt]: https://workspace.google.com/marketplace/app/cotton_markdown_tables/734474805574
+[mdt]: https://github.com/pffy/markdown-table
 [ppr]: https://en.wikipedia.org/wiki/Facing_heaven_pepper
