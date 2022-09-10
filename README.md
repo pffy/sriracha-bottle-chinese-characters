@@ -69,7 +69,9 @@ he following table is a list of the Chinese characters on the bottom front of th
 
 The following table is a list of the Chinese characters on the back of the Sriracha Sauce bottle. They are listed how they should be read in Chinese: **from top to bottom, then from right to left.** There are 60 characters and 1 punctuation mark at the end (if space is available on some bottles).
 
-> # 無加色素之是拉差香甜辣椒醬乃採用特種大紅新鮮之指天椒香蒜精製而成用於調和各種魚肉麵餃食料都美味可口且久藏氣味不變品質担保。
+Text: 
+
+無加色素之是拉差香甜辣椒醬乃採用特種大紅新鮮之指天椒香蒜精製而成用於調和各種魚肉麵餃食料都美味可口且久藏氣味不變品質担保
 
 > NOTE: Table generated using the [Cotton Markdown Tables][mdt] add-on for Google Sheets. Tone marks added to Hanyu Pinyin in Google Sheets with [HanyuPinyinTools][hpt].
 
